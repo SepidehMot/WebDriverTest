@@ -25,6 +25,7 @@ public class DriverLifeCycleSetting {
 		driver = new ChromeDriver(options);
 		//driver=new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+		
 	}
 
 	@AfterEach
