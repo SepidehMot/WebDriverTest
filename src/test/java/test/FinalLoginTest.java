@@ -1,7 +1,6 @@
 package test;
 
 import org.junit.jupiter.api.Test;
-
 import POs.LoginFormPO;
 import POs.LoginSuccessPO;
 import static org.junit.jupiter.api.Assertions.*;
